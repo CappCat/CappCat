@@ -1,6 +1,9 @@
 ## Hi there 👋
+#
 I'm a college student
+#
 🌱 I'm currently learning web development, so I'm getting into frameworks like nextJS
+#
 🔭 I’m currently working on full stack projects, such as a price comparison web app, and a mobile app for a gym
 <!--
 **CappCat/CappCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
